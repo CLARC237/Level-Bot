@@ -10,9 +10,9 @@
   "author": "roefinoavrililo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/roefinoavrililo/Discord.JS-Leveling-Bot/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/roefinoavrililo/Discord.JS-Leveling-Bot#readme",
+  "homepage": "",
   "engines": {
     "node": ">=12.0.0"
   },
