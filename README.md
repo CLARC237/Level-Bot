@@ -14,7 +14,9 @@ Level-Bot est un bot Discord qui permet de gérer un système de niveaux pour vo
 - ``!levelupmessage`` - Configurer le message qui est envoyé lorsqu'un membre monte de niveau.
 - ``!xpsettings`` - Configurer les paramètres du système de XP pour votre serveur.
 -`` !channel-levelup`` - Configurer le canal sur lequel les messages de niveau sont envoyés.
--``!set-prefix`` - Configurer votre propre prefix
+
+## 🛠️ Commandes de configuration
+- ``!set-prefix`` - Configurer votre propre préfixe pour les commandes du bot.
 
 ## 🛠️ Configuration
 
