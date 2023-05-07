@@ -16,7 +16,7 @@ const talkedRecently = new Map();
 const config = require("./config.json")
 
 // Events
-client.login(process.env.DISCORD_TOKEN);
+client.login(config.token);
 
 client.on("ready", () => {
   // Check if the table "points" exists.
