@@ -1,5 +1,5 @@
 {
-    "ownerID": "816234087483703296",
-    "prefix": "!"
-   
+    "token": "votre_token_de_bot",
+    "prefix": "!",
+    "owner_id": "votre_id_discord"
 }
